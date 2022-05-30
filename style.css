@@ -134,12 +134,12 @@ h3 {
 
 /* Edit Task */
 .task_none {
-  display: none
+  display: none;
 }
 
 .task-input_edit {
   display: inline-block;
-  width: 224px
+  width: 224px;
 }
 
 .task-label_edit {
